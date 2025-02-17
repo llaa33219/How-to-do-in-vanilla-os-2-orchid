@@ -1,5 +1,6 @@
 # How to do Roblox in vanilla os 2 orchid
-https://sober.vinegarhq.org/
+Search for sober in the default app store and download it.
+![image](https://github.com/user-attachments/assets/226590f0-ce37-4dce-a163-7c46f9338c22)
 
 # How to download a minecraft client similar to feather client on vanilla os 2 orchid
 Search for LabyMod in the default app store and download it.
